@@ -4,9 +4,9 @@
 - &nbsp; Addition, subtraction, multiplication, and division operations are supported. <br />
 - &nbsp; Use of the useReducer hook to manage state changes and allow for dynamic updates to the user interface. <br />
 - &nbsp; Utilized an internationalization number formatter to ensure consistent display of operand values. <br />
-<h2> How to Use 	:jack_o_lantern:</h2>
+<h2> How to Use :flying_saucer:</h2>
 To use this calculator, simply enter the numbers and operators using the provided buttons, and the result will be displayed in the output field. You can clear the calculator using the "C" button.
-<h2> How to Install :wind_face:</h2>
+<h2> How to Install 	:anchor:</h2>
 1. &nbsp; Clone this repository to your local machine. <br />
 2. &nbsp; Open a terminal window in the project directory. <br />
 3. &nbsp; Run npm install to install the project dependencies. <br />
