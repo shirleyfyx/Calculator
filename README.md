@@ -1,5 +1,5 @@
-<h1> Neon Calculator ⭐️</h1> <br />
-<h4> This project is an online calculator developed using React! It allows users to perform basic arithmetic operations including addition, subtraction, multiplication, and division. </h4> <br />
+<h1> Neon Calculator 🖥</h1> <br />
+This project is an online calculator developed using React! It allows users to perform basic arithmetic operations including addition, subtraction, multiplication, and division! ⭐️ <br />
 <h3> Key Features 🌐</h3>
 - Addition, subtraction, multiplication, and division operations are supported. <br />
 - Use of the useReducer hook to manage state changes and allow for dynamic updates to the user interface. <br />
@@ -13,6 +13,6 @@ To use this calculator, simply enter the numbers and operators using the provide
 4. Run npm start to start the application in your local environment. <br />
 5. Open a web browser and go to http://localhost:3000/ to view the application. <br />
 <h3> Technologies Used 🔧</h3>
-- React <br />
-- CSS <br />
-- JavaScript <br />
+- &nbsp; React <br />
+- &nbsp; CSS <br />
+- &nbsp; JavaScript <br />
